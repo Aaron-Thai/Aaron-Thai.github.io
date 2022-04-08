@@ -15,7 +15,7 @@ http://www.linkedin.com/in/aaron-thai
 # Experience (last year)
 
 ## Arknights Doctor (Aethryc#3760)
-![This is an image](arknights1.jpg)
+![This is an image](arknights1.jpg) 
 
 *[Arknights site][] The best tower defense game.*
 

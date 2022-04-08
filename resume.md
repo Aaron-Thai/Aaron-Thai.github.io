@@ -16,6 +16,7 @@ http://www.linkedin.com/in/aaron-thai
 
 ## Arknights Doctor (Aethryc#3760)
 ![This is an image](arknights1.jpg)
+
 *[Arknights site][] The best tower defense game.*
 
 **Doctor Aethryc (Doktah, Dokutah)** (April 2020 - present)
@@ -29,6 +30,7 @@ Summary of role
 
 ## Yugioh Master Duelist (593-955-642)
 ![This is an image](aromarikka.png)
+
 *[Master Duel EN site][] The official Yugioh simulator.*
 
 **Plat V (currently Silver V)** (Feb 2022 - present)

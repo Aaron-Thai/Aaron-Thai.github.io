@@ -15,11 +15,11 @@ http://www.linkedin.com/in/aaron-thai
 # Experience (last year)
 
 ## Arknights Doctor (Aethryc#3760)
-![This is an image](arknights1.jpg) 
+![This is an image](assets/img/arknights1.jpg) 
 
 *[Arknights site][] The best tower defense game.*
 
-**Doctor Aethryc (Doktah, Dokutah)** (April 2020 - present)
+**Doctor Aethryc (Doktah, Dokutah)** (April 2020 - Aug 2022)
 
 Summary of role
 
@@ -29,11 +29,11 @@ Summary of role
 - Spent over 30 Originite Prime without pulling Mudrock
 
 ## Yugioh Master Duelist (593-955-642)
-![This is an image](aromarikka.png)
+![This is an image](assets/img/aromarikka.png)
 
 *[Master Duel EN site][] The official Yugioh simulator.*
 
-**Plat V (currently Silver V)** (Feb 2022 - present)
+**Plat V (currently Gold V)** (Feb 2022 - present)
 
 Summary of role
 
@@ -43,7 +43,7 @@ Summary of role
 - Pulled two copies of Geomathmech Final Sigma.
 
 ## Fortnite Gamer (uninstalled)
-![This is an image](banana.png)
+![This is an image](assets/img/banana.png)
 
 *[Fortnite EN site][] The best battle royale game.*
 

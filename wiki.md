@@ -70,7 +70,7 @@ Especially if you consider that a banner usually runs for two weeks, and you are
 For **Limited Event banners** usually they are extremely generous *(just my opinion)* and will give you a free one-time 10-pull, a free pull every day on the banner, as well as login events that can possibly net you around 1-2 pulls every day. They will also ocassionally send some free stuff to your inbox as well. Overall, it's likely that you will get around 50 pulls on the banner as a f2p which is likely to net you one or more copies of the featured 5* character. *(And yes, I do have the exclusive collab character **Ash** from Rainbow Six Siege).*
 
 ## Conclusion
-![Gameplay by 777ucky](assets/img/horse.jpg) 
+![Gameplay by 777ucky](assets/img/horse.png) 
 
 Arknights is probably overall one of the best mobile games gameplay-wise. *(It also happens to satisfy my childhood pastime of tower defense)*. 
 
@@ -96,8 +96,6 @@ It is an ongoing joke that the developers are actually running a [music label](h
 1. [Speed of Light (Code of Brawl PV music)](https://www.youtube.com/watch?v=L2LB12IxLDU)
 2. [Operation Blade (Art of Blade)](https://www.youtube.com/watch?v=3dtEALr3L_g)
 3. [Dossoles Holiday - Lobby BGM](https://www.youtube.com/watch?v=aDmwLjprRoM)
-
-![That's how the mafia works.](assets/img/mafia.jpg) 
 
 ### Resources
 - [Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/akgallery.html) *(character info and game CGs)*

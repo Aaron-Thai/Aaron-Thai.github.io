@@ -74,7 +74,7 @@ For **Limited Event banners** usually they are extremely generous *(just my opin
 
 Arknights is probably overall one of the best mobile games gameplay-wise. *(It also happens to satisfy my childhood pastime of tower defense)*. 
 
-Voice acting is also great, with English and Chinese voices also being added into the game but by bit. 
+Voice acting is also great, with English and Chinese voices also being added into the game bit by bit. 
 
 While rate-up may or may not be a lie, the rates are usually fair *(I think there is probably some internal balancing to eventually even out the odds if you are very unlucky)*.
 
@@ -100,3 +100,4 @@ It is an ongoing joke that the developers are actually running a [music label](h
 ### Resources
 - [Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/akgallery.html) *(character info and game CGs)*
 - [Arknights GamePress](https://gamepress.gg/arknights/) *(wiki, event info, character guides)*
+- [Arknights EN Twitter](https://twitter.com/ArknightsEN) *(official news)*
